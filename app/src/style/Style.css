@@ -1,0 +1,154 @@
+.bg-main {
+  min-height: 100vh;
+  /* max-height: 100vh; */
+  /* background-color: cadetblue; */
+}
+
+.hero-main-row {
+  padding: 4rem;
+}
+
+.hero-heading {
+  /* margin-bottom: 16px; */
+  font-weight: bold;
+  text-align: center;
+  position: relative;
+    top: 20px;
+}
+
+.hero-col {
+  padding: 20px;
+  max-height: 70vh;
+}
+
+.hero-login-form {
+  border: 1px solid black;
+  /* margin-left: 10px; */
+  padding: 40px;
+  min-height: 44vh;
+  min-width: 18vw;
+  background-color: #2C3333;
+  /* min-width: 12vw; */
+  border-radius: 8px;
+}
+
+.form-heading {
+  text-align: center;
+  margin: 20px 20px 40px 20px;
+  font-weight: bold;
+}
+
+.form-forgot-password {
+  /* margin-top: 0.5rem; */
+  margin-left: 4px;
+  text-align: left;
+}
+
+.white-font {
+  color: #F9F5EB;
+}
+
+.green-font {
+  color: #27E1C1;
+}
+
+.black-font {
+  color: #2C3333;
+}
+
+.grey-font {
+  color: #2E4F4F;
+}
+
+.form-button {
+  min-width: -webkit-fill-available;
+  background-color: #57C5B6;
+  color: #FFF;
+  margin-top: 1rem;
+  border: none;
+  box-shadow: none;
+  border-radius: 8px;
+  height: 5vh;
+  /* font-size: 16px; */
+  font-weight: bold;
+}
+
+.form-footer-text {
+  text-align: center;
+  margin: 28px 20px 12px 20px;
+}
+
+.footer {
+  position : static;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  font-size: 15px;
+  /* background-color: lightgrey; */
+}
+
+.nav-text {
+  font-weight: bold;
+}
+
+.hero-img {
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+  position: relative;
+    bottom: 80px;
+}
+
+.signup-box {
+  min-height: 70vh;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding: 40px;
+  margin: auto;
+  background-color: #2C3333;
+}
+
+.signup-box-row {
+  margin: 5rem 3rem;
+}
+
+.bg-signup {
+  /* background-image: url('.././assets/img5.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%; */
+}
+
+.doc-editor-button {
+  margin: 16px 8px;
+  background-color: #57C5B6;
+}
+
+.upload-button {
+  border: dashed;
+  border-color: #000;
+  padding: 2rem 0;
+  background-color: #EEEEEE;
+  text-align: center;
+}
+
+.upload-box {
+  margin: 3rem;
+}
+
+.card-button {
+  margin: 8px 8px 0px 0px;
+}
+
+.cards-container {
+  margin: 3rem;
+}
+
+.doc-card {
+  width: 10rem;
+  margin: 8px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+  text-decoration: none;
+}
